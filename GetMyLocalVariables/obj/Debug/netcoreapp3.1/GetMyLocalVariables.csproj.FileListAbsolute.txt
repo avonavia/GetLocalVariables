@@ -1,0 +1,10 @@
+C:\Users\nyanp\source\repos\Reflection15042023\GetMyLocalVariables\bin\Debug\netcoreapp3.1\GetMyLocalVariables.deps.json
+C:\Users\nyanp\source\repos\Reflection15042023\GetMyLocalVariables\bin\Debug\netcoreapp3.1\GetMyLocalVariables.dll
+C:\Users\nyanp\source\repos\Reflection15042023\GetMyLocalVariables\bin\Debug\netcoreapp3.1\GetMyLocalVariables.pdb
+C:\Users\nyanp\source\repos\Reflection15042023\GetMyLocalVariables\obj\Debug\netcoreapp3.1\GetMyLocalVariables.csproj.AssemblyReference.cache
+C:\Users\nyanp\source\repos\Reflection15042023\GetMyLocalVariables\obj\Debug\netcoreapp3.1\GetMyLocalVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyanp\source\repos\Reflection15042023\GetMyLocalVariables\obj\Debug\netcoreapp3.1\GetMyLocalVariables.AssemblyInfoInputs.cache
+C:\Users\nyanp\source\repos\Reflection15042023\GetMyLocalVariables\obj\Debug\netcoreapp3.1\GetMyLocalVariables.AssemblyInfo.cs
+C:\Users\nyanp\source\repos\Reflection15042023\GetMyLocalVariables\obj\Debug\netcoreapp3.1\GetMyLocalVariables.csproj.CoreCompileInputs.cache
+C:\Users\nyanp\source\repos\Reflection15042023\GetMyLocalVariables\obj\Debug\netcoreapp3.1\GetMyLocalVariables.dll
+C:\Users\nyanp\source\repos\Reflection15042023\GetMyLocalVariables\obj\Debug\netcoreapp3.1\GetMyLocalVariables.pdb

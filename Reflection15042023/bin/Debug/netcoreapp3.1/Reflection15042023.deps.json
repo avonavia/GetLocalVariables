@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Reflection15042023/1.0.0": {
+        "dependencies": {
+          "GetMyLocalVariables": "1.0.0"
+        },
+        "runtime": {
+          "Reflection15042023.dll": {}
+        }
+      },
+      "GetMyLocalVariables/1.0.0": {
+        "runtime": {
+          "GetMyLocalVariables.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Reflection15042023/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GetMyLocalVariables/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

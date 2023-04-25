@@ -1,0 +1,17 @@
+C:\Users\nyanp\source\repos\Reflection15042023\Reflection15042023\bin\Debug\netcoreapp3.1\Reflection15042023.exe
+C:\Users\nyanp\source\repos\Reflection15042023\Reflection15042023\bin\Debug\netcoreapp3.1\Reflection15042023.deps.json
+C:\Users\nyanp\source\repos\Reflection15042023\Reflection15042023\bin\Debug\netcoreapp3.1\Reflection15042023.runtimeconfig.json
+C:\Users\nyanp\source\repos\Reflection15042023\Reflection15042023\bin\Debug\netcoreapp3.1\Reflection15042023.runtimeconfig.dev.json
+C:\Users\nyanp\source\repos\Reflection15042023\Reflection15042023\bin\Debug\netcoreapp3.1\Reflection15042023.dll
+C:\Users\nyanp\source\repos\Reflection15042023\Reflection15042023\bin\Debug\netcoreapp3.1\Reflection15042023.pdb
+C:\Users\nyanp\source\repos\Reflection15042023\Reflection15042023\obj\Debug\netcoreapp3.1\Reflection15042023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyanp\source\repos\Reflection15042023\Reflection15042023\obj\Debug\netcoreapp3.1\Reflection15042023.AssemblyInfoInputs.cache
+C:\Users\nyanp\source\repos\Reflection15042023\Reflection15042023\obj\Debug\netcoreapp3.1\Reflection15042023.AssemblyInfo.cs
+C:\Users\nyanp\source\repos\Reflection15042023\Reflection15042023\obj\Debug\netcoreapp3.1\Reflection15042023.csproj.CoreCompileInputs.cache
+C:\Users\nyanp\source\repos\Reflection15042023\Reflection15042023\obj\Debug\netcoreapp3.1\Reflection15042023.dll
+C:\Users\nyanp\source\repos\Reflection15042023\Reflection15042023\obj\Debug\netcoreapp3.1\Reflection15042023.pdb
+C:\Users\nyanp\source\repos\Reflection15042023\Reflection15042023\obj\Debug\netcoreapp3.1\Reflection15042023.genruntimeconfig.cache
+C:\Users\nyanp\source\repos\Reflection15042023\Reflection15042023\bin\Debug\netcoreapp3.1\GetMyLocalVariables.dll
+C:\Users\nyanp\source\repos\Reflection15042023\Reflection15042023\bin\Debug\netcoreapp3.1\GetMyLocalVariables.pdb
+C:\Users\nyanp\source\repos\Reflection15042023\Reflection15042023\obj\Debug\netcoreapp3.1\Reflection15042023.csproj.AssemblyReference.cache
+C:\Users\nyanp\source\repos\Reflection15042023\Reflection15042023\obj\Debug\netcoreapp3.1\Reflection15042023.csproj.CopyComplete
